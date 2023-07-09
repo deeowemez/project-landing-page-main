@@ -1,0 +1,19 @@
+/* styles.css */
+
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+.div-one{
+    width: fit-content;
+    background-color: #1F2937;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+}
+.header{
+    margin: 0px;
+    padding: 0px;
+}
